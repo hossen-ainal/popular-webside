@@ -1,0 +1,61 @@
+.header{
+	background-color: #1781BF;
+}
+.popular{
+	font-size: 17px;
+}
+
+/*  Slider Part Css */
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+ 
+}
+
+/*  End Slider Part Css */
+
+/*Footer Part Css*/
+
+.footer_part{
+	background:#222222;
+	padding:50px 0px 10px 0px;
+
+}
+
+.social{
+	margin-left: -42px;
+}
+.social ul li{
+	text-decoration: none;
+	display: inline-block;
+}
+.social ul li a{
+	border-radius: 50px;
+}
+.social ul li a i{
+	border-radius: 50px;
+	font-size: 25px;
+	padding: 10px;
+	background:#1CA261;
+	color:#fff;
+}
+
+.social ul li a i:hover{
+	font-size: 25px;
+	padding: 12px;
+	background:#2A70A1;
+	color:#fff;
+}
+
+
+/* End Footer Part Css*/
+
+.scroll_top{
+	bottom:10px;
+	right: 10px;
+	position: fixed;
+}
